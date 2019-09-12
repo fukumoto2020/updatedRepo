@@ -30,6 +30,8 @@ public class MySurfaceView extends SurfaceView {
         Bitmap theImg = BitmapFactory.decodeResource(getResources(), R.drawable.myimage);
         canvas.drawBitmap(theImg, 100, 10,  null);
 
+        //i made a change
+
 
     }
 
